@@ -1,0 +1,15 @@
+com\jc\controller\ProductoControlador.class
+com\jc\dao\ProductoDAO.class
+com\jc\modelo\Producto.class
+com\jc\dao\ProductoDAOimplements.class
+com\jc\dao\VentaDAO.class
+com\jc\controller\Login.class
+com\jc\utiles\Conexion.class
+com\jc\controller\ClienteControlador.class
+com\jc\modelo\Cliente.class
+com\jc\controller\VentaControlador.class
+com\jc\dao\ClienteDAO.class
+com\jc\dao\ClienteDAOimplements.class
+com\jc\dao\VentaDAOimplements.class
+com\jc\modelo\Venta.class
+com\jc\utiles\Validate.class
